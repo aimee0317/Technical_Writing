@@ -1,0 +1,32 @@
+---
+title: "Canadian Art Project Funding Size Prediction Using Random Forest"
+author: "Amelia Tang"
+date: "1/18/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+```
+
+## Executive Summary 
+
+Why - In 2021, the Canadian government 
+What - This report utilized a machine learning algorithm 
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
