@@ -1,0 +1,6 @@
+,Dummy Classifier,Logistic Regression,Multinomial Naive Bayes,SVC,Random Forest
+fit time,0.03,0.31,0.03,0.19,0.43
+score time,0.02,0.02,0.02,0.04,0.04
+weighted f1 ,0.11,0.57,0.44,0.52,0.63
+weighted recall ,0.27,0.57,0.45,0.52,0.63
+weighted precision ,0.07,0.58,0.47,0.53,0.64
