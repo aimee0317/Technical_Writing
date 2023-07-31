@@ -6,6 +6,6 @@ This report is produced for the UBC Master's of Data Science program DSCI 542 Co
 
 In this report, some graphs and tables have been updated to facilitate the writing of the report, but the project's core content, including the algorithm used, remains unchanged.
 
-The report can be accessed [here](report1/doc/DSCI_542_Report.pdf)
+The report can be accessed [here](Report1/doc/DSCI_542_Report.pdf).
 
 ## Report 2: Trustworthy ML on Healthcare Imaging Analysis 
